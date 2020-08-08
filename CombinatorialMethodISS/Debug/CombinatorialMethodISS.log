@@ -1,0 +1,6 @@
+﻿  CombinatorialMethodISS.cpp
+c:\users\u1\desktop\combinatorialmethodiss\combinatorialmethodiss\iss.h(77): warning C4018: '>=': signed/unsigned mismatch
+c:\users\u1\desktop\combinatorialmethodiss\combinatorialmethodiss\iss.h(79): warning C4018: '<': signed/unsigned mismatch
+c:\users\u1\desktop\combinatorialmethodiss\combinatorialmethodiss\combinatorialmethodiss.cpp(81): warning C4018: '<': signed/unsigned mismatch
+c:\users\u1\desktop\combinatorialmethodiss\combinatorialmethodiss\combinatorialmethodiss.cpp(104): warning C4018: '>=': signed/unsigned mismatch
+  CombinatorialMethodISS.vcxproj -> C:\Users\u1\Desktop\CombinatorialMethodISS\Debug\CombinatorialMethodISS.exe
